@@ -4,7 +4,7 @@ TEFAS is an electronic fund platform in Turkiye that allows to compare all funds
 
 ## 1) cashflow_fund() function:
 
-I have developed a **cashflow_fund** function utilizing historical data from TEFAS to calculate the cash flow of mutual and pension funds, in order to gain a comprehensive understanding of the funds' real growth. To utilize the script, it is necessary to download historical data from the TEFAS website and upload it as a "tefasveriler.csv" file to your directory. The script will then proceed to calculate daily cash flow and store it in a new column, obtaining a cumulative summation at the conclusion of the specified term. The script also includes the capability to display a plot of daily changes, and the dates can be easily modified within the script.
+I have developed a ***cashflow_fund*** function utilizing historical data from TEFAS to calculate the cash flow of mutual and pension funds, in order to gain a comprehensive understanding of the funds' real growth. To utilize the script, it is necessary to download historical data from the TEFAS website and upload it as a "tefasveriler.csv" file to your directory. The script will then proceed to calculate daily cash flow and store it in a new column, obtaining a cumulative summation at the conclusion of the specified term. The script also includes the capability to display a plot of daily changes, and the dates can be easily modified within the script.
 
 What is the difference between AuM change and cash flow?
 
