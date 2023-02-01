@@ -1,5 +1,11 @@
 # Turkiye Electronic Fund Trading Platform - TEFAS
 
+
+
+![Logo](https://www.tefas.gov.tr/Images/tefas_web_site_logo_TR_Bilgilendirme.png)
+
+
+
 TEFAS is an electronic fund platform in Turkiye that allows to compare all funds over a single system and to reach all funds in the market with a single investment account. Here is the [Link](https://www.tefas.gov.tr/). I intend to integrate various functions that will offer distinctive insights and analysis of the funds.
 
 ## 1) cashflow_fund() function:
@@ -14,4 +20,3 @@ AUM (Assets Under Management) differences of the funds refers to the change in t
 
 In summary, cash flow in funds gives information about the cash inflows and outflows to the fund while AUM differences gives information about the change in the value of assets managed by the fund.
 
-![Logo](https://www.tefas.gov.tr/Images/tefas_web_site_logo_TR_Bilgilendirme.png)
